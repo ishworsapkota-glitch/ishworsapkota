@@ -1,5 +1,5 @@
 # ishworsapkota
 this is my first Git repository.
 <br>
-Author - Ishwor Sapkota(Binita Kunwar)
+Author - Ishwor Sapkota
 <br>
